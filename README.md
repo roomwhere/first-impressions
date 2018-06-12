@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## The Room Where It Happens
 
-You can use the [editor on GitHub](https://github.com/roomwhere/first-impressions/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You're wondering what "It" is. The Room Where It Happens was borne out of a desire to publicize conversations that make us think, and make us laugh. Conversations that are current, and all too often only available to a chosen few.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+While inspired by, "The Room Where It Happens" is in no way, shape, or form, affiliated with the hit Broadway Musical, Hamilton.
 
 ### Markdown
 
